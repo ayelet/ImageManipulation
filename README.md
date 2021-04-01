@@ -1,5 +1,5 @@
 Web deployment:  https://ayelet-img-processor.netlify.app/
-
+ Plan: ![plan](https://github.com/ayelet/ImageManipulation/blob/main/Dev%20Process%20Plan.jpg)
 
 # Getting Started with Create React App
 
